@@ -1,10 +1,10 @@
-# LocalTreinamento - NomeDoTreinamento
+# Power Tuning - Domine o Power BI: Do Básico à Inteligência Artificial
 
-### **Instrutor**: NomeDoInstrutor
+### **Instrutor**: Rafael Mendonça
 ### **Linkedin**: [Perfil do LinkeIn](ColeAquiLinkPaginaPerfilLinkedinInstrutor)
 ### **Página do curso na-no LocalTreinamento**: [Link para página do curso na-no LocalTreinamento](ColeAquiLinkPaginaLocalTreinamento)
 ### **Pasta no Google Drive de apoio ao Treinamento**: [Link Google Drive para pasta do curso](ColeAquiLinkPaginaPastaApoioTreinamento)
-### **Início**: 00/00/2024
+### **Início**: 10/03/2024
 ### **Término**: 
 
 ## A Jornada
