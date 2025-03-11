@@ -41,7 +41,7 @@ Na tela anterior, clicamos em Relatório em branco, para termos acesso a área d
 - Dependendo do tamanho do arquivo, o processo pode levar alguns instantes para ser concluido.
 - Depois de concluido uma tela como esta deverá ser exibida:
   ![Tela Resultado da importação dos dados do Execl](./images/TelaResultadoImportacaoDadosExcel.png)
-- Observe que ele mostra o nome das três abas da planilha que acabamos de importar.
+- Observe que ela mostra o nome das três abas da planilha que acabamos de importar.
 - Neste ponto eu posso escolher qualquer uma das três abas ou todas elas.
 - Ao fazer a seleção, um preview dos dados é mostrado, como na imagem a seguir:
   ![Tela Preview dados selecionados](./images/TelaPreviewDadosSelecionados.png)
