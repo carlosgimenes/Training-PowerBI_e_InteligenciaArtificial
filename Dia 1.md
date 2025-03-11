@@ -38,7 +38,7 @@ Na tela anterior, clicamos em Relatório em branco, para termos acesso a área d
 
 - Para criarmos nosso primeiro relatório de exemplo, utilizaremos o arquivo fornecido **base_vendas_3_meses.xlsx**.
 - Clique em **Importar dados do Excel** e informe o caminho do local do arquivo.
-- Dependendo do tamanho do arquivo, o processo de levar alguns instantes para ser concluido.
+- Dependendo do tamanho do arquivo, o processo pode levar alguns instantes para ser concluido.
 - Depois de concluido uma tela como esta deverá ser exibida:
   ![Tela Resultado da importação dos dados do Execl](./images/TelaResultadoImportacaoDadosExcel.png)
 - Observe que ele mostra o nome das três abas da planilha que acabamos de importar.
