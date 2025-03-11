@@ -14,7 +14,7 @@
 
 - Para baixar, procure por "power bi desktop download".
 - Caso esteja utilizando o Edge, ele provavelmente irá sugerir baixar pela Microsoft Store.
-- Optando pela Microsoft Store, faremos a instalação da versão **mais recente** e ele **sempre** estará atualizado, o que pode eventualmente ser um problema, caso a atulização tenha algum **Bug**.
+- Optando pela Microsoft Store, faremos a instalação da versão **mais recente** e ele **sempre** estará atualizado, o que pode eventualmente ser um problema, caso a atualização tenha algum **Bug**.
 - Rafael recomenda trabalhar com uma ou duas versões anteriores, para evitar este tipo de problema.
 - [Link para página de Dowload Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494&msockid=1633926cfc6d61c711558716fd966016)
 - Recomendação para que realize a instalação no idioma **Inglês**, principalmente para quem for estudar para Certificação.
