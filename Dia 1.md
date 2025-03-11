@@ -27,7 +27,7 @@ Ao abrir o Power BI pela primeira vez, você deve ter uma tela como esta:
 
 ![Tela de abertura do Power BI](./images/TelaAberturaPowerBI.png)
 
-- Na primeira conexão com o Power BI, caso aparece uma caixa para conectar a uma conta, podemos dispensar sem problemas.
+- Na primeira conexão com o Power BI, caso apareça uma caixa para conectar a uma conta, podemos dispensar sem problemas.
 - Só precisaremos utilizar uma conta, caso tenhamos a necessidade de compartilhar nossos relatórios.
 
 ### Primeiros Passos no Power BI
