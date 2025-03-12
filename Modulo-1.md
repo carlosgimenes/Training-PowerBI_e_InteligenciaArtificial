@@ -1,6 +1,6 @@
 # Power Tuning - Domine o Power BI: Do Básico à Inteligência Artificial
 
-## Dia 1
+## Módulo 1: Introdução ao Power BI
 
 ### Apontamentos
 
@@ -39,7 +39,7 @@ Na tela anterior, clicamos em Relatório em branco, para termos acesso a área d
 - Para criarmos nosso primeiro relatório de exemplo, utilizaremos o arquivo fornecido **base_vendas_3_meses.xlsx**.
 - Clique em **Importar dados do Excel** e informe o caminho do local do arquivo.
 - Dependendo do tamanho do arquivo, o processo pode levar alguns instantes para ser concluido.
-- Depois de concluido uma tela como esta deverá ser exibida:
+- Depois de concluido, uma tela como esta deverá ser exibida:
   ![Tela Resultado da importação dos dados do Execl](./images/TelaResultadoImportacaoDadosExcel.png)
 - Observe que ela mostra o nome das três abas da planilha que acabamos de importar.
 - Neste ponto eu posso escolher qualquer uma das três abas ou todas elas.
@@ -49,6 +49,6 @@ Na tela anterior, clicamos em Relatório em branco, para termos acesso a área d
   - Carregar: Pega os dados como estão e disponibiliza para uso.
   - Transformar Dados: **ATENÇÃO NÃO ESQUECER DE COLOCAR A DEFINIÇÃO**.
 - Para nosso exercício vamos escolher **Carregar**.
-- Após processar, as colunas da minha tabela serão mostradas, como na imagem a seguir:
+- Após processar, as colunas da minha tabela serão mostradas, como mostrado na imagem a seguir:
   ![Tela com colunas da tabela importada](./images/TelaColunasTabelaImportada.png)
 - Agora já posso começar a criar meu Relatório, bastando arrastar as colunas desejadas para a tela do relatório.
