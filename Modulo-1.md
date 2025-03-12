@@ -49,6 +49,6 @@ Na tela anterior, clicamos em Relatório em branco, para termos acesso a área d
   - Carregar: Pega os dados como estão e disponibiliza para uso.
   - Transformar Dados: **ATENÇÃO NÃO ESQUECER DE COLOCAR A DEFINIÇÃO**.
 - Para nosso exercício vamos escolher **Carregar**.
-- Após processar, as colunas da minha tabela serão mostradas, como mostrado na imagem a seguir:
+- Após processar, as colunas da minha tabela serão mostradas, como podemos ver na imagem a seguir:
   ![Tela com colunas da tabela importada](./images/TelaColunasTabelaImportada.png)
 - Agora já posso começar a criar meu Relatório, bastando arrastar as colunas desejadas para a tela do relatório.
